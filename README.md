@@ -27,10 +27,12 @@ With [RandomForestRegressor](https://scikit-learn.org/stable/modules/generated/s
 | Linear Regression | ~ 2.799 | ~ 7.837|  ~ 2.051|~0.962|
 |RandomForestRegressor|~3.322|~11.037|~2.383|~0.946|
 ## Use
-There is a csv file with the dataset: 
-        contains my code.
+There is a csv file with the dataset: [StudentsPerformance.csv](https://github.com/anyaiyer/student-exam-predict/blob/main/StudentsPerformance.csv)
+
+[Student Exam Score Prediction.ipynb](https://github.com/anyaiyer/student-exam-predict/blob/main/Student%20Exam%20Score%20Prediction.ipynb) contains my code.
         
         
-  is my linear regression model.
+ [student-score-LinR.pkl](https://github.com/anyaiyer/student-exam-predict/blob/main/student-score-LinR.pkl) is my linear regression model.
+ [student-score-rf.pkl](https://github.com/anyaiyer/student-exam-predict/blob/main/student-score-rf.pkl) is my RandomForestRegressor model. 
         
 Use of matplotlib, pandas, numpy, seaborn, scikit learn, and tensorflow.keras is needed. Update to Python 3.5 is recommended.
