@@ -35,4 +35,4 @@ There is a csv file with the dataset: [StudentsPerformance.csv](https://github.c
  [student-score-LinR.pkl](https://github.com/anyaiyer/student-exam-predict/blob/main/student-score-LinR.pkl) is my linear regression model.
  [student-score-rf.pkl](https://github.com/anyaiyer/student-exam-predict/blob/main/student-score-rf.pkl) is my RandomForestRegressor model. 
         
-Use of matplotlib, pandas, numpy, seaborn, scikit learn, and tensorflow.keras is needed. Update to Python 3.5 is recommended.
+Use of matplotlib, pandas, numpy, seaborn, and scikit learn is needed. Update to Python 3.5 is recommended.
